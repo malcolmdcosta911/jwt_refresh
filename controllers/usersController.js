@@ -14,4 +14,10 @@ const register = async (req, res) => {
   return res.json({ name: user.name });
 };
 
-module.exports = { register };
+//req.user._id added by auth middleware
+const userProfile = async (req, res) => {
+  let user = await User.findById(req.user._id).select("name email -_id");
+  return res.json({ user });
+};
+
+module.exports = { register, userProfile };

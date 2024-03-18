@@ -4,15 +4,15 @@ const jwt = require("jsonwebtoken");
 
 const login = async (req, res) => {
   const { email, password } = req.body;
-  const origin = req.headers.origin;
-  console.log("origin", origin);
+  // const origin = req.headers.origin;
+  // console.log("origin", origin);
 
   let user = await User.findOne({ email });
   if (!user) return res.status(404).json("Invalid username or password");
 
   const validPassword = bcrypt.compareSync(password, user.password);
   if (!validPassword)
-    return res.status(400).json("Invalid username or password");
+    return res.status(404).json("Invalid username or password");
 
   const refreshToken = user.generateRefreshToken();
   const accessToken = user.generateAcessToken();
@@ -40,6 +40,7 @@ const login = async (req, res) => {
 
 const refresh = async (req, res) => {
   const refreshToken = req?.cookies?.["x-refresh-token"];
+  if (!refreshToken) return res.status(401).json("no refresh token found");
 
   const user = await User.findOne({ refreshToken });
   if (!user) return res.status(404).json("No user found");
@@ -65,8 +66,7 @@ const refresh = async (req, res) => {
 
 const logout = async (req, res) => {
   const refreshToken = req?.cookies?.["x-refresh-token"];
-  if (!refreshToken) return res.status(404).json("Invalid token"); //No content
-  console.log("refreshToken", refreshToken);
+  if (!refreshToken) return res.status(401).json("Invalid token");
 
   const user = await User.findOne({ refreshToken });
   console.log("user", user);
@@ -78,7 +78,7 @@ const logout = async (req, res) => {
     async function (err, decoded) {
       console.log(err);
       if (err || user.name !== decoded.name)
-        return res.status(404).json("Invalid refresh token");
+        return res.status(400).json("Invalid refresh token");
 
       user.refreshToken = "";
       await user.save();

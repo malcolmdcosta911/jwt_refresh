@@ -10,7 +10,7 @@ const userSchema = new Schema({
   password: { type: String, required: true },
   // permissions: { type: Array, default: ["guest"] },
   // lastLoggedIn: { type: Date },
-  permissions: { type: Array, default: ["user"] },
+  permissions: { type: Array, default: ["user"] }, //maybe use enum later ? ["user"] = 0 , like predefined types
   refreshToken: { type: String },
 });
 
@@ -34,8 +34,8 @@ userSchema.methods.generateAcessToken = function () {
       },
     },
     process.env.ACCESS_TOKEN_SECRET_KEY,
+    // { expiresIn: "50s" }
     { expiresIn: "1d" }
-    // { expiresIn: "1d" }
   );
 };
 

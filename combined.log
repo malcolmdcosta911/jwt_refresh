@@ -283,3 +283,250 @@
 {"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:06:16.380Z"}
 {"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:06:39.058Z"}
 {"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:06:39.072Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:18:56.696Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:18:56.738Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:35:34.700Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:35:34.720Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:38:47.710Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:38:47.740Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:38.214Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:38.240Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:40.021Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:40.033Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:45.090Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:45.108Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:48.244Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:48.267Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:51.825Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:51.850Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:39:58.183Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:39:58.199Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:40:03.738Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:40:03.762Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:40:06.936Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:40:06.966Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:40:09.898Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:40:09.918Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:41:39.122Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:41:39.135Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:41:41.737Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:41:41.758Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:41:45.036Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:41:45.057Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:41:49.274Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:41:49.289Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:42:16.437Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:42:16.452Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:07.098Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:07.111Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:11.537Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:11.548Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:12.932Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:12.946Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:19.427Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:19.438Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:21.793Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:21.805Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:26.671Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:26.683Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:31.504Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:31.515Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:38.425Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:38.445Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:41.537Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:41.547Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:42.702Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:42.714Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:46:59.050Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:46:59.066Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:00.516Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:00.527Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:01.712Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:01.726Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:10.375Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:10.392Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:14.505Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:14.518Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:29.132Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:29.145Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:32.919Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:32.929Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:47:47.436Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:47:47.447Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id') Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at userProfile (C:\\projects\\jwt cookie refresh\\controllers\\usersController.js:19:49)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports (C:\\projects\\jwt cookie refresh\\middleware\\auth.js:19:5)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-18T11:49:11.782Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:50:04.032Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:50:04.047Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:54:03.018Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:54:03.031Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:54:19.005Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:54:19.016Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:55:15.339Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:55:15.351Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:55:25.607Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:55:25.618Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:58:07.542Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:58:07.552Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:58:10.149Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:58:10.161Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id') Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at userProfile (C:\\projects\\jwt cookie refresh\\controllers\\usersController.js:20:49)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports (C:\\projects\\jwt cookie refresh\\middleware\\auth.js:19:5)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-18T11:58:22.687Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:24.657Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:24.667Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:26.113Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:26.124Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:36.724Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:36.738Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:38.054Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:38.063Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:43.785Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:43.795Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:45.220Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:45.231Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:46.358Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:46.370Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:49.322Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:49.336Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id') Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at userProfile (C:\\projects\\jwt cookie refresh\\controllers\\usersController.js:20:49)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports (C:\\projects\\jwt cookie refresh\\middleware\\auth.js:19:5)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-18T11:59:50.479Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T11:59:58.394Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T11:59:58.408Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:00:00.277Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:00:00.293Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:00:02.718Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:00:02.735Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id') Cannot read properties of undefined (reading '_id')","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at userProfile (C:\\projects\\jwt cookie refresh\\controllers\\usersController.js:20:49)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at module.exports (C:\\projects\\jwt cookie refresh\\middleware\\auth.js:20:5)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-18T12:00:02.966Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:00:21.275Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:00:21.286Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:00:58.667Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:00:58.677Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:01:37.315Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:01:37.328Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:01:41.292Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:01:41.301Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:01:45.256Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:01:45.269Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:01:51.219Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:01:51.231Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:01:55.733Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:01:55.747Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:02:16.777Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:02:16.790Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:02:18.525Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:02:18.538Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:02:49.938Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:02:49.958Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:03:01.014Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:03:01.028Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:03:03.678Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:03:03.691Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:03:13.139Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:03:13.152Z"}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"hjdjakhdkhaskjd\" (type string) at path \"_id\" for model \"User\" Cast to ObjectId failed for value \"hjdjakhdkhaskjd\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"hjdjakhdkhaskjd\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\schemaType.js:1221:12)\n    at SchemaType.castForQuery (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\schemaType.js:1636:17)\n    at cast (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\query.js:4778:12)\n    at Query._castConditions (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\query.js:2199:10)\n    at model.Query._findOne (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\query.js:2513:8)\n    at model.Query.exec (C:\\projects\\jwt cookie refresh\\node_modules\\mongoose\\lib\\query.js:4322:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async userProfile (C:\\projects\\jwt cookie refresh\\controllers\\usersController.js:19:14)","stringValue":"\"hjdjakhdkhaskjd\"","timestamp":"2024-03-18T12:03:26.282Z","value":"hjdjakhdkhaskjd","valueType":"string"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:03:31.881Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:03:31.891Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:03:46.192Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:03:46.204Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:00.828Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:00.842Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:02.949Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:02.963Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:05.355Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:05.367Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:06.409Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:06.425Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:08.915Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:08.929Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:04:14.374Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:04:14.385Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:05:39.372Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:05:39.388Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:05:40.889Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:05:40.900Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:05:46.794Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:05:46.809Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:05:48.077Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:05:48.087Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:05:50.118Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:05:50.136Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:07:41.310Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:07:41.324Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:08:57.143Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:08:57.156Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:09:03.463Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:09:03.476Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:09:13.191Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:09:13.200Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:10:03.359Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:10:03.370Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:10:05.994Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:10:06.005Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:10:17.661Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:10:17.672Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:13:45.522Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:13:45.533Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:13:51.454Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:13:51.467Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:13:53.802Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:13:53.814Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:13:56.394Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:13:56.409Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:13:57.533Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:13:57.545Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:01.157Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:01.170Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:03.566Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:03.578Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:04.840Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:04.851Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:08.500Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:08.512Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:10.658Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:10.669Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:18.110Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:18.119Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:21.532Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:21.534Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:21.545Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:36.274Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:36.284Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:14:41.582Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:14:41.598Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:19:53.992Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:19:54.003Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:19:56.492Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:19:56.502Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:19:58.509Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:19:58.520Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:06.029Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:06.040Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:07.639Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:07.659Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:08.848Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:08.862Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:09.928Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:09.941Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:17.928Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:17.942Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:25.370Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:25.382Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:33.758Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:33.768Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:37.809Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:37.824Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:20:45.225Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:20:45.240Z"}
+{"level":"error","message":"data and hash arguments required data and hash arguments required","stack":"Error: data and hash arguments required\n    at Object.compareSync (C:\\projects\\jwt cookie refresh\\node_modules\\bcrypt\\bcrypt.js:166:15)\n    at login (C:\\projects\\jwt cookie refresh\\controllers\\authController.js:13:32)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-03-18T12:20:56.168Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:21:15.690Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:21:15.703Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:21:31.205Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:21:31.222Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:21:32.471Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:21:32.482Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:21:48.676Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:21:48.688Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:22:06.339Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:22:06.349Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:22:17.758Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:22:17.768Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:22:20.089Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:22:20.100Z"}
+{"level":"info","message":"app listening on port 3300","timestamp":"2024-03-18T12:22:31.632Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T12:22:31.644Z"}
