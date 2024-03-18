@@ -10,7 +10,6 @@ require("./startup/routes.js")(app);
 
 const port = process.env.PORT || 3500;
 app.listen(port, () => {
-  // console.log(`Example app listening on port ${port}`);
   logger.info(`app listening on port ${port}`);
 });
 
@@ -20,3 +19,5 @@ app.listen(port, () => {
 //moongose schema not complete
 //no req body joi validation added ( needed cause moongose default validtion work only on save())
 //no object id validation added
+//based on role middleware nt added
+//not added .env variable missing error

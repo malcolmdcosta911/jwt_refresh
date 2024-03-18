@@ -14,7 +14,6 @@ module.exports = function (req, res, next) {
       accessToken,
       process.env.ACCESS_TOKEN_SECRET_KEY
     );
-    console.log(decoded.userInfo.permissions);
     req.user = decoded.userInfo;
     req.permissions = decoded.userInfo.permissions;
     next();

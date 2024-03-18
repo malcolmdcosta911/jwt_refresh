@@ -1,18 +1,29 @@
 const cors = require("cors");
 
 // const whitelist = ["http://example1.com", "http://example2.com"];
-const whitelist = [process.env.CLIENT_URL];
+
+const whitelist = process.env.ALLOWED_IPS.split(", ");
 
 const corsOptions = {
   origin: function (origin, callback) {
-    console.log("origin", origin);
     if (whitelist.indexOf(origin) !== -1 || !origin) {
       callback(null, true);
     } else {
       callback(new Error("Not allowed by CORS"));
     }
   },
+  credentials: true,
+  //credentials: Configures the Access-Control-Allow-Credentials CORS header. Set to true to pass the header, otherwise it is omitted.
+  //res.header('Access-Control-Allow-Credentials', true);
+
+  optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
 };
+
+//block ips other than  http://127.0.0.1:3500 , "*" --> all ips allowed
+// var corsOptions = {
+//   origin: "http://127.0.0.1:3500",
+//   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+// };
 
 module.exports = function (app) {
   app.use(cors(corsOptions));
