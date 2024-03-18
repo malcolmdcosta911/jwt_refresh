@@ -1,0 +1,285 @@
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:27:29.050Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:27:29.074Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:29:06.879Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:29:06.894Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:29:09.488Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:29:09.510Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:29:44.984Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:29:45.002Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:30:00.604Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:30:00.618Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:30:06.488Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:30:06.509Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:399:5)\n    at ServerResponse.setHeader (node:_http_outgoing:663:11)\n    at ServerResponse.header (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.json (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\response.js:275:10)\n    at C:\\projects\\jwt cookie refresh\\routes\\logout.js:12:49\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-16T12:30:06.609Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at new NodeError (node:internal/errors:399:5)\n    at ServerResponse.setHeader (node:_http_outgoing:663:11)\n    at ServerResponse.header (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\response.js:794:10)\n    at ServerResponse.json (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\response.js:275:10)\n    at C:\\projects\\jwt cookie refresh\\routes\\logout.js:12:49\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)","timestamp":"2024-03-16T12:30:08.012Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:30:24.577Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:30:24.612Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:31:49.557Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:31:49.578Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:31:59.615Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:31:59.653Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:32:06.791Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:32:06.815Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:32:16.767Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:32:16.786Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:32:39.339Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:32:39.360Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:32:45.661Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:32:45.709Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:33:47.901Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:33:47.919Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:33:49.550Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:33:49.565Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:33:52.062Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:33:52.092Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:33:55.036Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:33:55.054Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:39.413Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:39.429Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:41.615Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:41.635Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:47.147Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:47.185Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:51.329Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:51.350Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:53.058Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:53.082Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:34:59.513Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:34:59.529Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:35:02.527Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:35:02.550Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:35:06.968Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:35:06.985Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:35:09.327Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:35:09.350Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:35:10.939Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:35:10.982Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:37:46.578Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:37:46.594Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:37:49.331Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:37:49.349Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:37:55.866Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:37:55.885Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:00.949Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:00.971Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:08.211Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:08.225Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:17.799Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:17.816Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:26.765Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:26.783Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:29.097Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:29.125Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:33.020Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:33.043Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:50.585Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:50.605Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:56.248Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:56.276Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:38:58.995Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:38:59.014Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:39:00.860Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:39:00.889Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:39:54.097Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:39:54.117Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:39:58.481Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:39:58.501Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:40:02.964Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:40:02.978Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:40:54.983Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:40:55.010Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:41:03.413Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:41:03.436Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:41:33.028Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:41:33.045Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:41:35.849Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:41:35.867Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:51:50.862Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:51:50.883Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:58:39.433Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:58:39.452Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T12:58:42.108Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T12:58:42.120Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:02:35.087Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:02:35.104Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:02:55.817Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:02:55.832Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:23.942Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:23.957Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:28.925Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:28.944Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:36.040Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:36.060Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:50.230Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:50.243Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:52.693Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:52.716Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:07:55.841Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:07:55.876Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:08:00.836Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:08:00.853Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:08:04.139Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:08:04.163Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:08:06.367Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:08:06.384Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:10:36.199Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:10:36.216Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:10:53.046Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:10:53.064Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:10:57.159Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:10:57.177Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:11:00.332Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:11:00.351Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:11:13.290Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:11:13.306Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:20:15.414Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:20:15.433Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:21:07.390Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:21:07.419Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:21:26.763Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:21:26.780Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:22:04.717Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:22:04.737Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:22:53.941Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:22:53.964Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:22:56.133Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:22:56.147Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:23:30.354Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:23:30.378Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:23:42.978Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:23:42.994Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:10.524Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:10.543Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:19.495Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:19.510Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:34.726Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:34.749Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:38.736Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:38.761Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:48.459Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:48.480Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:25:51.086Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:25:51.114Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:23.387Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:23.404Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:32.867Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:32.887Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:37.509Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:37.561Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:38.681Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:38.696Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:40.072Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:40.089Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:43.169Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:43.184Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:47.620Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:47.635Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:50.550Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:50.568Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:26:52.522Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:26:52.559Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:27:01.497Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:27:01.520Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:27:24.803Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:27:24.824Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:27:30.765Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:27:30.782Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:27:36.316Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:27:36.332Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:28:55.362Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:28:55.378Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:28:56.969Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:28:56.998Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:28:58.888Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:28:58.910Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:29:01.583Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:29:01.605Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:30:25.387Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:30:25.404Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:30:27.801Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:30:27.815Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:30:52.900Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:30:52.915Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:31:15.519Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:31:15.537Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:34:09.134Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:34:09.160Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:34:49.268Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:34:49.283Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:35:01.758Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:35:01.776Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:35:05.770Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:35:05.782Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:35:11.266Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:35:11.291Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:35:14.100Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:35:14.119Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:37:07.011Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:37:07.024Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:37:09.791Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:37:09.819Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:38:08.149Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:38:08.168Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:38:10.539Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:38:10.552Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:38:19.982Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:38:19.997Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:38:25.561Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:38:25.580Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:38:28.318Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:38:28.335Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:16.212Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:16.229Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:18.997Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:19.017Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:20.630Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:20.676Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:30.748Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:30.767Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:36.652Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:36.669Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-16T13:43:38.289Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-16T13:43:38.309Z"}
+{"level":"error","message":"data and hash arguments required data and hash arguments required","stack":"Error: data and hash arguments required\n    at Object.compareSync (C:\\projects\\jwt cookie refresh\\node_modules\\bcrypt\\bcrypt.js:166:15)\n    at login (C:\\projects\\jwt cookie refresh\\controllers\\authController.js:11:32)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-03-16T14:53:58.665Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:39:46.068Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:39:46.121Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:50:54.041Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:50:54.056Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:53:56.609Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:53:56.624Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:9:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:54:00.621Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:54:10.367Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:54:10.384Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:54:52.633Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:54:52.655Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:55:00.514Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:55:00.531Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:55:02.927Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:55:02.943Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:55:47.107Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:55:47.123Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T08:55:48.343Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T08:55:48.392Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:55:50.638Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:56:45.249Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:57:42.026Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:57:42.154Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:57:57.407Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:57:57.531Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:59:14.023Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:11:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T08:59:18.679Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:03:25.694Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:03:25.710Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:03:28.815Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:03:28.835Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:03:31.608Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:03:31.631Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:03:34.045Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:03:34.070Z"}
+{"level":"error","message":"Not allowed by CORS Not allowed by CORS","stack":"Error: Not allowed by CORS\n    at origin (C:\\projects\\jwt cookie refresh\\startup\\cors.js:12:16)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\projects\\jwt cookie refresh\\node_modules\\cors\\lib\\index.js:204:7)\n    at newFn (C:\\projects\\jwt cookie refresh\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\projects\\jwt cookie refresh\\node_modules\\express\\lib\\router\\index.js:280:10)","timestamp":"2024-03-18T09:03:47.058Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:05:52.273Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:05:52.299Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:06:16.354Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:06:16.380Z"}
+{"level":"info","message":"app listening on port 3500","timestamp":"2024-03-18T09:06:39.058Z"}
+{"level":"info","message":"Connect to mongo ","timestamp":"2024-03-18T09:06:39.072Z"}
