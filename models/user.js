@@ -34,8 +34,8 @@ userSchema.methods.generateAcessToken = function () {
       },
     },
     process.env.ACCESS_TOKEN_SECRET_KEY,
-    // { expiresIn: "50s" }
-    { expiresIn: "1d" }
+    { expiresIn: "50s" }
+    // { expiresIn: "1d" }
   );
 };
 

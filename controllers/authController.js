@@ -27,7 +27,8 @@ const login = async (req, res) => {
       sameSite: "None",
       maxAge: 24 * 60 * 60 * 1000,
     })
-    .header("x-access-token", accessToken)
+    // .header("x-access-token", accessToken)
+    .append("x-access-token", accessToken)
     .json({ name: user.name, accessToken });
 };
 
